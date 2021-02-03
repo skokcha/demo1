@@ -8,6 +8,6 @@
 <h2> GIT for a code repository</h2>
 <h2> Github repository and Webhooks</h2>
 <h2> Maven 3.6</h2>
-<h2> Docker</h2>
+<h2> Docker is awesome</h2>
 <h2> This demo is between 5 to 10 minutes.</h2>
 <c><h2>Thank you for your time</h2></c>
