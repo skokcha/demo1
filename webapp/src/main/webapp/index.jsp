@@ -10,4 +10,3 @@
 <h2> Maven 3.6</h2>
 <h2> Docker</h2>
 <h2> This demo is between 5 to 10 minutes.</h2>
-<h2>Have a great Day!<h2>
